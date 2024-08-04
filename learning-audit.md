@@ -31,9 +31,9 @@ I feel confident with it but I want to try some more advanced stuff. I'm going t
 
 ### Learning plan
 
-### CRUD functions
+#### CRUD functions
 I'm still a bit confused with POST and UPDATE so I'm going to build simple API to test and understand them.
-### Performance
+#### Performance
 Understand why and how we use async operations in API. I will practice using helper functions.
-### Designing API
+#### Designing API
 Keep practicing building robust API and keep clean code
