@@ -23,11 +23,11 @@ I feel confident with it but I want to try some more advanced stuff. I'm going t
 
 ## Backend
 ### Key points
-- CRUD functions,
-- Manipulating data,
-- Security,
-- Performance,
-- Designing API
+- CRUD functions (ORANGE),
+- Manipulating data (GREEN),
+- Security (GREEN),
+- Performance (ORANGE),
+- Designing API (ORANGE),
 
 ### Learning plan
 
@@ -37,3 +37,19 @@ I'm still a bit confused with POST and UPDATE so I'm going to build simple API t
 Understand why and how we use async operations in API. I will practice using helper functions.
 #### Designing API
 Keep practicing building robust API and keep clean code
+
+## Databases
+### Key points 
+- SELECTing query,
+- Schema design,
+- Relations between tables,
+- JOINing tables,
+- UPDATE query,
+
+  ### Learning plan
+  #### JOINing tables
+  Confused with OUTER, LEFT and RIGHT join. Going to practice with simple database with two tables.
+  #### Schema design
+  Going to practice building database with proper design and relations
+  #### UPDATE query 
+  Sometimes I'm still confused with updating item in database and providing proper body.
