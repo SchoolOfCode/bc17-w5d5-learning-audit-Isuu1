@@ -71,5 +71,19 @@ Sometimes I'm still confused with updating item in database and providing proper
 
 ## DevOps Engineer
 ### Key points 
+
+- Creating Docker image and run it (ORANGE),
+- Implementing Husky in your app (ORANGE),
+- Setting basic tests like Eslint to check your code (GREEN),
+- CI/CD (GREEN),
+- Github actions (ORANGE),
+- AWS and other cloud services (GREEN).
 ### Learning plan
+
+#### Docker
+To fully understand logic behind setting up Docker I will build an simple app using Docker and Husky
+#### AWS
+I will deploy at least one app to AWS in order to learn basics of it
+#### Github actions
+I will implement Github action to my side project that will check for possible errors in my code
 
