@@ -51,4 +51,21 @@ Keep practicing building robust API and keep clean code
 #### Schema design
 Going to practice building database with proper design and relations
 #### UPDATE query 
- Sometimes I'm still confused with updating item in database and providing proper body.
+Sometimes I'm still confused with updating item in database and providing proper body.
+
+## Quality Assurance Engineer
+### Key points 
+### Learning plan
+
+## Web Developer
+### Key points 
+### Learning plan
+
+## Product Manager
+### Key points 
+### Learning plan
+
+## DevOps Engineer
+### Key points 
+### Learning plan
+
