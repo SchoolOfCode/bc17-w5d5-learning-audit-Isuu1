@@ -21,13 +21,15 @@ Still have problems in understanding how promises works. I will build small appl
 #### Event listeners
 I feel confident with it but I want to try some more advanced stuff. I'm going to find some resources online and try to replicate them.
 
+### UPDATE: Builded form using server actions in NextJS, used few async/await functions in personal project and used new event listeners like 'resize'
+
 ## Backend
 ### Key points
-- CRUD functions (ORANGE),
+- CRUD functions (ORANGE) => (GREEN),
 - Manipulating data (GREEN),
 - Security (GREEN),
-- Performance (ORANGE),
-- Designing API (ORANGE),
+- Performance (ORANGE) => (GREEN),
+- Designing API (ORANGE) => (GREEN),
 
 ### Learning plan
 
@@ -37,6 +39,8 @@ I'm still a bit confused with POST and UPDATE so I'm going to build simple API t
 Understand why and how we use async operations in API. I will practice using helper functions.
 #### Designing API
 Keep practicing building robust API and keep clean code
+
+### UPDATE: Designed new API for personal project recapping and using new stuff I've learned
 
 ## Databases
 ### Key points 
