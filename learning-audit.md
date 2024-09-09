@@ -7,9 +7,9 @@
 - Flexbox, Grid (GREEN)
 - DOM selectors (GREEN)
 - Event listeners (GREEN)
-- Forms (ORANGE)
-- Fetch ((GREEN))
-- Async/Await (ORANGE)
+- Forms (ORANGE) -> (GREEN)
+- Fetch (GREEN)
+- Async/Await (ORANGE) -> (GREEN)
 
 ### Learning plan
 
@@ -45,11 +45,10 @@ Keep practicing building robust API and keep clean code
 - Relations between tables,
 - JOINing tables,
 - UPDATE query,
-
-  ### Learning plan
-  #### JOINing tables
-  Confused with OUTER, LEFT and RIGHT join. Going to practice with simple database with two tables.
-  #### Schema design
-  Going to practice building database with proper design and relations
-  #### UPDATE query 
-  Sometimes I'm still confused with updating item in database and providing proper body.
+ ### Learning plan
+ #### JOINing tables
+ Confused with OUTER, LEFT and RIGHT join. Going to practice with simple database with two tables.
+#### Schema design
+Going to practice building database with proper design and relations
+#### UPDATE query 
+ Sometimes I'm still confused with updating item in database and providing proper body.
