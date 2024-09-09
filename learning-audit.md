@@ -21,10 +21,11 @@ Still have problems in understanding how promises works. I will build small appl
 #### Event listeners
 I feel confident with it but I want to try some more advanced stuff. I'm going to find some resources online and try to replicate them.
 
-### UPDATE: Builded form using server actions in NextJS, used few async/await functions in personal project and used new event listeners like 'resize'
+### UPDATE: Builded form using server actions in NextJS, used few async/await functions in personal project and used new event listeners like 'resize'.
 
 ## Backend
 ### Key points
+
 - CRUD functions (ORANGE) => (GREEN),
 - Manipulating data (GREEN),
 - Security (GREEN),
@@ -40,22 +41,27 @@ Understand why and how we use async operations in API. I will practice using hel
 #### Designing API
 Keep practicing building robust API and keep clean code
 
-### UPDATE: Designed new API for personal project recapping and using new stuff I've learned
+### UPDATE: Designed new API for personal project recapping and using new stuff I've learned.
 
 ## Databases
 ### Key points 
-- SELECTing query,
-- Schema design,
-- Relations between tables,
-- JOINing tables,
-- UPDATE query,
+
+- SELECTing query (ORANGE) => (GREEN),
+- Schema design (ORANGE) => (GREEN),
+- Relations between tables (ORANGE) => (GREEN),
+- JOINing tables (GREEN),
+- UPDATE query (ORANGE) => (GREEN),
+- 
  ### Learning plan
+ 
  #### JOINing tables
  Confused with OUTER, LEFT and RIGHT join. Going to practice with simple database with two tables.
 #### Schema design
 Going to practice building database with proper design and relations
 #### UPDATE query 
 Sometimes I'm still confused with updating item in database and providing proper body.
+
+### UPDATE: Created and designed PostgreSQL database advanced schema for side project with features like unique fields and many relations between tables.
 
 ## Quality Assurance Engineer
 ### Key points 
